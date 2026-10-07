@@ -1,0 +1,6 @@
+# Rust build artifacts
+textrelayd/target/
+
+# RPM build scratch
+fcitx5-textrelay/fcitx5-textrelay-*.tar.gz
+fcitx5-textrelay/.rpmbuild-src/
